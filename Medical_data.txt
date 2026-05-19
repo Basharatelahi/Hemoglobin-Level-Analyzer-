@@ -1,0 +1,19 @@
+Ali Khan,14.5
+Sana Ahmed,10.5
+Zain Mustafa,15.1
+Ayesha Bibi,9
+Bilal Siddiqui,11
+Hamza Yousaf,19.2
+Fatima Khan,13.8
+Usman Tariq,8
+Maryam Jan,12.5
+Rizwan Shah,7
+Asadullah Jan,15.5
+Khadija Noor,11
+Umar Farooq,17.8
+Hafsa Batool,18
+Zeeshan Malik,13.2
+abdullah,12.3
+zain khan,14.0
+sohail ahmed,7.4
+kashif sultan,18.2
