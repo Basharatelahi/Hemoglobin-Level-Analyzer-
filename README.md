@@ -1,2 +1,2 @@
 # Hemoglobin-Level-Analyzer-
-A Python project that analyse Medical Data of Pationts
+A Python project that analyse Medical Data of Pationts.
